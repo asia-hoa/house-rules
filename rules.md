@@ -1,8 +1,6 @@
 # Asia Condominium
 ## Rules & Regulations
 
-_Revised December 2017_
-
 ### Statement of Principles
 
 The Declaration allows the Board to establish Rules & Regulations.  The Board reserves the right to amend these Rules & Regulations from time to time.  If these Rules & Regulations are inconsistent with the Declaration, Articles or Bylaws, the following priority of documents applies: the Declaration, the Articles, the Bylaws, and then these Rules & Regulations.
@@ -79,7 +77,7 @@ All complaints should be registered in writing and directed to the Property Mana
 
 #### Damage
 
-Activities by any resident or their guests, pets, or children which might cause damage to other units, buildings, landscaping or any common area, are strictly forbidden.  The owner will be financially responsible for the repair of any such damage.
+Activities by any resident or their guests, animals, or children which might cause damage to other units, buildings, landscaping or any common area, are strictly forbidden.  The owner will be financially responsible for the repair of any such damage.
 
 #### General Behavior
 
@@ -287,23 +285,53 @@ The Board adopts the following regulations governing use of the Recreation Facil
 
 08. The Board, at its discretion, may assess a fine of up to fifty dollars against any Resident for each violation of any regulation established in this resolution.
 
-### Pets
+### Animals
 
-Domestic household pets such as dogs, cats, and birds  may be kept in the condominiums provided the pet does not exceed 25lbs (twenty five pounds) in weight or the unit owner obtains express written consent from the owner’s association to keep a pet in excess of the weight limit.
+Domestic animals may be kept as pets in the condominiums provided none of the following limits are exceeded, and the animal does not cause an unreasonable nuisance.
 
-Unit owners may not keep more than a total of 2 (two) animals in their unit at any one time. This includes dogs, cats, and birds etc. However, the keeping of such household pets shall be subject to such reasonable rules and regulations as the board may from time to time adopt.
+Where any of the following rules conflict with the requirements of The Federal Fair Housing Act, the Americans with Disabilities Act or related state, county and city laws, the relevant laws take precedence.
 
-No animals, livestock, chicken, or poultry of any kind shall be bred or raised on the property or in any condominium. No pets are allowed on the third floor court yard.
+#### Notice
 
-Pit Bulls and Rotweillers are hereby considered dangerous breeds of dogs, whose presence is not suitable to community living, and thus these breeds including mixed breeds, are banned from the condominium property.
+When an animal begins or ends its residence on the premises, the unit owner must notify the current building manager of the change. The building manager may request additional information about the animal.
 
-Owners shall not permit pets to become a nuisance to others residents. Behaviors which may constitute a nuisance are excessive barking, crying, scratching and threatening behavior such as growling, biting, or attempted biting, or other analogous behaviors. The board may order removal of a pet if, after notice and opportunity to be heard, and opportunity to cure, the board determines said pet constitutes an unreasonable nuisance. The board may order immediate removal of any pet it determines constitutes a danger to owners, occupants, tenants, or guests. The board may promulgate additional rules and regulations from time to time regarding pets.
+#### Limits
 
-Residents will be financially responsible for any and all damage, loss or expense arising out of keeping a pet on the premises.  Pet owners are required to control their pets in a responsible manner, including preventing their pets from unreasonably disturbing other owners, and shall remove any pet they cannot reasonably control.
+The unit owner may be excepted from one or more of these limits by obtaining express, written permission from the board prior to the relevant animal beginning its residence on the premises.
 
-Residents shall keep their pets inside their units.  Pets must be leashed at all times outside of the residents’ units.  Cats may not be allowed to wander unsupervised inside the building.
+- Domestic animals may be kept as pets in the condominiums provided the animal does not exceed 25 pounds (11.3 kilograms) in weight.
+- Condominium unit owners may not keep more than two animals in their unit at any one time.
+- No domestic animals or livestock of any kind shall be bred or raised on the property or in any condominium.
 
-Residents will be given three (3) written warnings of complaints arising from violations of pet control rules, per the Schedule of Fines and Fees that follows.
+#### Common Areas
+
+Unit owners shall keep animals inside their units. Animals must be leashed at all times outside of the unit. Cats are not allowed to wander unsupervised inside the building.
+
+No animals are allowed on the third floor court yard, in the second floor gymnasium, or in the second floor common room.
+
+#### Nuisance Behavior
+
+Unit owners shall not permit animals to become a nuisance to residents. Nuisance behaviors include, but are not limited to:
+
+- excessive barking or crying
+- scratching or chewing
+- threatening behavior (growling, biting, attempted biting, etc)
+
+Animal owners are required to control their animals in a responsible manner, including preventing their animals from unreasonably disturbing other owners.
+
+#### Clean-up
+
+Owners must remove any fecal matter left by their animals, as required by Seattle Municipal Code 9.25.082. Additionally, such waste must be bagged and disposed of via the garbage chute. Receptacles in common areas, such as the lobby, may not be used.
+
+#### Damage
+
+Unit owners are financially responsible for any and all damage, loss or expense arising from keeping an animal on the premises.
+
+#### Removal
+
+The board may order a unit owner to remove an animal if, after notice and opportunity to be heard, and opportunity to cure, the board determines the animal constitutes an unreasonable nuisance or exceeds the stated limits.
+
+The board may order immediate removal of any animal it determines is a danger to owners, occupants, tenants, or guests.
 
 ### Remodeling and Hardwood Floors
 
