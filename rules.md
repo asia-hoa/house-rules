@@ -1,8 +1,6 @@
 # Asia Condominium
 ## Rules & Regulations
 
-_Revised December 2017_
-
 ### Statement of Principles
 
 The Declaration allows the Board to establish Rules & Regulations.  The Board reserves the right to amend these Rules & Regulations from time to time.  If these Rules & Regulations are inconsistent with the Declaration, Articles or Bylaws, the following priority of documents applies: the Declaration, the Articles, the Bylaws, and then these Rules & Regulations.
@@ -225,47 +223,31 @@ During the move-in process, owners and tenants are advised to keep a close eye o
 
 ### Parking
 
-#### Assigned Parking
+Numbered parking spaces are for use by their corresponding owners only. No guest parking is available.
 
-Residents shall park in their assigned space only.  Parking is for residents only; there is no guest parking available.  The renting or sale of parking spaces to non-residents of Asia Condominium is not permitted.
+Marked spaces on P1 are only for use by the customers of unit 101 during business hours.
 
-The Board of Directors of the Asia Condominium Homeowners Association ("Board") declares as follows:
+#### Rental and Resale
 
-01. The Board desires to adopt a uniform policy for the management of vehicle parking within the Asia Condominium;
+No transfer of title of any parking space within the Asia Condominium may occur without an amendment to the Declaration or transfer of title of the corresponding condominium unit.
 
-02. There are 72 parking spaces (five of which are designated handicapped) within the Asia Condominium;
+Owners may rent their parking spaces separately from the residential unit. Parking spaces may only be rented to residents of the building.
 
-03. Each parking space within the Asia Condominium is recorded on the survey map and plans, allocated to a particular condominium unit, and constitutes a limited common element of that particular condominium unit;
+#### Removal and Fines
 
-04. No transfer of title of any parking space within the Asia Condominium may occur without an amendment to the Declaration or transfer of title of the corresponding condominium unit;
+No vehicles may be parked outside of a designated parking space. The board has authority to remove any vehicle parked outside of a designated parking space without notice, and at the full expense of the vehicle owner.
 
-05. "Parking without authorization" is (a) the occupying of any portion of any parking space within the Asia Condominium without the permission of the owner of that space or (b) the placement of any unattended vehicle outside of a designated parking space;
+Vehicles must only be parked in the space assigned the owner's unit. If an unauthorized vehicle is occupying a parking space, the owner may request the board, the property manager or the maintenance manager have the vehicle towed. No other persons may request a vehicle to be removed. Any request must include the date and time, make, model and license plate number.
 
-06. The Board has authority, at its discretion, to have any vehicle parked without authorization removed from within the Asia Condominium without notice to the owner of the vehicle and at the full expense of the owner of any vehicle;
-
-07. The Board of Directors, the Property Manager, or JMJ Enterprise (Andy Lau) are the only ones who may grant permission to have a vehicle towed while on the premises which is parked in an illegal or incorrect parking spot.  If a resident wishes to have a vehicle towed that is illegally parked in their parking spot, they must contact JMJ Enterprise, the Board of Directors, or the Property Manager.  The homeowner must document the date and time the vehicle was found illegally parking in their parking spot; and the make, model, and license plate number of the vehicle.  The Property Manager, Board of Directors, and/or JMJ Enterprise will attempt to find out who the vehicle belongs to, and if unsuccessful, will authorize the vehicle to be towed immediately.  Please note that the tow company will not remove any vehicles that are illegally or incorrectly parked without the Property Manager’s, the Board of Director’s, or JMJ Enterprise’s authorization.
-
-08. The Board has the authority to, at its discretion, impose fines on the owner of any vehicle parked without authorization within the Asia Condominium;
-
-The Board, at its discretion, may impose a fine of up to $100 per day on the owner of any vehicle that was parked without authorization;
-
-All expenses associated with the above resolution shall be born fully by the owner of the vehicle that was parked without authorization.
+The board may impose fines on the owner of any vehicle parked without authorization, up to $100 per day.
 
 #### Permitted Vehicles
 
-Motorcycles are considered to be individual motor vehicles and must be parked in an assigned parking space.  No trailers, boats, or campers shall be parked in the garage.  Inoperative vehicles are not permitted to remain on the premises for more than 72 hours.
+Motorcycles are considered to be individual motor vehicles and must be parked in an assigned parking space. Trailers, boats, or campers are not permitted. Inoperative vehicles must be removed within 72 hours.
 
 #### Permitted Activities
 
-Car repairs are not permitted in the garage, with the exception of changing a flat tire.  Car washing is not permitted in the garage.  The use of gasoline or combustible materials for cleaning or any other use is not permitted in the garage.
-
-#### Storage
-
-No storage of any kind is permitted in the assigned parking spaces, with the exception of one or two bicycles affixed to the wall or ceiling, using suitable anchors.  The Board or Homeowners Association is not responsible for any items stored in the garage, bike storage area or common areas.
-
-#### Violation
-
-Violation of any of garage rules will result in towing or removal at the owner’s expense.
+Car repairs are not permitted in the garage, with the exception of changing a flat tire. Car washing is not permitted in the garage. The use of gasoline or combustible materials for cleaning or any other use is not permitted in the garage.
 
 ### Recreational Facilities
 
