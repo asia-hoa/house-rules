@@ -237,9 +237,9 @@ Owners may rent their parking spaces separately from the residential unit. Parki
 
 No vehicles may be parked outside of a designated parking space. The board has authority to remove any vehicle parked outside of a designated parking space without notice, and at the full expense of the vehicle owner.
 
-Vehicles must only be parked in the space assigned the owner's unit. If an unauthorized vehicle is occupying a parking space, the owner may request the board, the property manager or the maintenance manager have the vehicle towed. No other persons may request a vehicle to be removed. Any request must include the date and time, make, model and license plate number.
+Vehicles must only be parked in the space assigned the owner's unit. If an unauthorized vehicle is occupying a parking space, the owner may request the Board, the Property Manager or Maintenance Manager have the vehicle towed. No other persons may request a vehicle to be removed. Any request must include the date and time, make, model and license plate number.
 
-The board may impose fines on the owner of any vehicle parked without authorization, up to $100 per day.
+The board may impose fines on the owner of any vehicle parked without authorization, or parked otherwise improperly, up to $100 per day.
 
 #### Permitted Vehicles
 
