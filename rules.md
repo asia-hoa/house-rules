@@ -331,7 +331,7 @@ No signs shall be posted without prior Board approval, except on the bulletin bo
 
 ### Key boxes
 
-No key boxes may be attached to the exterior of the building, except when placed by a realtor and associated with an active real estate sale listing.
+No key boxes may be attached to any exterior portion or public area of the building, except when placed by a realtor and associated with an active real estate sale listing.
 
 #### Requirements
 
