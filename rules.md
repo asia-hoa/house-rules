@@ -329,6 +329,24 @@ This section is intended to authorize each condominium owner to make reasonable 
 
 No signs shall be posted without prior Board approval, except on the bulletin board provided in the elevator.  This includes any signs relating to the sale or letting of any unit, posted advertisements, and informational postings.
 
+### Key boxes
+
+No key boxes may be attached to any exterior portion or public area of the building, except when placed by a realtor and associated with an active real estate sale listing.
+
+#### Requirements
+
+When a key box is permitted, the following rules must be followed:
+
+- The key box must be secure. The Supra-brand boxes favored by most realtors in Washington would satisfy this requirement.
+- The key box must have contact information for the responsible person attached. Using clear packing tape to affix and cover a business card is usually sufficient.
+- The key box must be locked to the handrail on the southern exterior of the building, adjacent to commercial unit 102.
+
+#### Removal
+
+Realtors must remove their key box when the associated sale listing is no longer active.
+
+Attached key boxes or lock boxes which do not follow all the requirements set out by the Board may be removed without notice.
+
 ### Subletting
 
 Maintaining a high level of owner occupancy promotes higher property values, protects our ability as individual owners to secure financing, and promotes a higher level of participation within the building community with regards to the current issues and overall well-being of the building.  
