@@ -203,8 +203,6 @@ Moving in or out of the building is limited through the garage and to between th
 
 All moving in or out of the Asia Condos is to be done via the P1 garage only. If anyone moves in or out through the lobby they will be assessed the fine of $200.
 
-Rental leases are limited to a minimum of six (6) months, no shorter terms are allowed.
-
 #### Occupancy Resolution
 
 In light of the above declarations, the Board adopts the following regulations governing changes in occupancy in the Asia Condominium:
@@ -359,6 +357,10 @@ Absentee owners must keep the Property Building Manager advised of their current
 
 Absentee owners must provide their lessee with a copy of the current House Rules and Regulations prior to the lessee's occupancy and the lessee will be responsible for conformance with these rules.  In the event the lessee is not in conformance with the rules, the owner will be held responsible for all fines incurred.
 
+#### Lease Minimum Duration
+
+Rental leases must be a minimum of six (6) months. No shorter terms are permitted. No short term rental services (Airbnb, VRBO, or others) may be offered. Fines for violating this provision will be incurred immediately, with requiring the owner first receive a warning.
+
 ### Trash / Recycling
 
 #### Trash
@@ -414,6 +416,12 @@ If legal actions are necessary to compel an owner to comply with the House Rules
     03. The third violation will result in a Two Hundred dollar ($200.00) fine.
 
         For subsequent repeat violations, the fine is Two Hundred Dollars ($200.00) plus Twenty Five Dollars ($25.00) per day until the fine is paid and the violation is corrected.
+
+- Lease Minimum Duration Violation
+
+The first violation will result in a two hundred dollar ($200) fine.
+
+For subsequent violations, the fine is two hundred dollars ($200) in addition to two hundred dollars ($200) per day until the fine is paid and the short term rental agreement is terminated.
 
 - Collection Policy for Delinquent Assessments
 
