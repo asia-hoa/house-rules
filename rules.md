@@ -159,7 +159,7 @@ The Board of Directors of the Asia Condominium Homeowners Association resolves t
 
 #### Notice Board
 
-The notice board located in the elevator is for community, social and building information purposes only.  Use of this board for commercial marketing purposes is forbidden.
+The notice board located in the lobby is for community, social and building information purposes only.  Use of this board for commercial marketing purposes is forbidden.
 
 #### Storage
 
@@ -327,7 +327,7 @@ This section is intended to authorize each condominium owner to make reasonable 
 
 ### Signs
 
-No signs shall be posted without prior Board approval, except on the bulletin board provided in the elevator.  This includes any signs relating to the sale or letting of any unit, posted advertisements, and informational postings.
+No signs shall be posted without prior Board approval, except on the notice board provided in the lobby.  This includes any signs relating to the sale or letting of any unit, posted advertisements, and informational postings.
 
 ### Key boxes
 
