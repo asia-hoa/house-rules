@@ -199,9 +199,11 @@ Alterations to individual units which may affect the structural or fire safety o
 
 ### Moving In/Out of the Building
 
-Moving in or out of the building is limited through the garage and to between the hours of 8:00am and 7:00 pm.  Whenever moving, residents are strongly encouraged to respect the privacy and quiet of the other residents. A move in fine of $200 is due from the owner whenever the resident of a unit changes and the following rules and regulations are not followed. If residents are in compliance with the following rules then no fine will be assessed.
+Moving in or out of the building must be done through the garage, between the hours of 8 AM and 7 PM. The lobby may not be used for this purpose. Additionally, the property manager must be notified at least two (2) business days prior to the move-date so that padding can be installed to protect the walls of the elevator.
 
-All moving in or out of the Asia Condos is to be done via the P1 garage only. If anyone moves in or out through the lobby they will be assessed the fine of $200.
+Third-party movers must be supervised by the homeowner or by the homeowner's appointed representative.
+
+Fines for violating any part of this provision will be incurred immediately, without warning.
 
 #### Occupancy Resolution
 
@@ -216,8 +218,6 @@ In light of the above declarations, the Board adopts the following regulations g
 - Any damage to the Asia Condominium Homeowners Association’s property caused by persons moving into or out from a unit within the Asia Condominium shall be assessed to the current owner of such unit.
 
 - The Board, at its discretion, may assess a fine of up to fifty dollars against any Owner for each violation of any regulation established in this resolution.
-
-During the move-in process, owners and tenants are advised to keep a close eye on any open exterior door as they are generally propped open while items are moved in.  (An open door is an opportunity for a criminal.)  Third party movers must be supervised by the homeowner or by the homeowner’s appointed representative.
 
 ### Parking
 
@@ -359,7 +359,7 @@ Absentee owners must provide their lessee with a copy of the current House Rules
 
 #### Lease Minimum Duration
 
-Rental leases must be a minimum of six (6) months. No shorter terms are permitted. No short term rental services (Airbnb, VRBO, or others) may be offered. Fines for violating this provision will be incurred immediately, with requiring the owner first receive a warning.
+Rental leases must be a minimum of six (6) months. No shorter terms are permitted. No short term rental services (Airbnb, VRBO, or others) may be offered. Fines for violating this provision will be incurred immediately, without warning.
 
 ### Trash / Recycling
 
@@ -422,6 +422,10 @@ If legal actions are necessary to compel an owner to comply with the House Rules
 The first violation will result in a two hundred dollar ($200) fine.
 
 For subsequent violations, the fine is two hundred dollars ($200) in addition to two hundred dollars ($200) per day until the fine is paid and the short term rental agreement is terminated.
+
+- Moving In/Out of the Building Violation
+
+Each violation will result in a two hundred dollar ($200) fine.
 
 - Collection Policy for Delinquent Assessments
 
